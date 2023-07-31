@@ -1,0 +1,12 @@
+D:\dev\SinchCodec\SinchCodec\bin\Debug\net6.0\SinchCodec.deps.json
+D:\dev\SinchCodec\SinchCodec\bin\Debug\net6.0\SinchCodec.dll
+D:\dev\SinchCodec\SinchCodec\bin\Debug\net6.0\SinchCodec.pdb
+D:\dev\SinchCodec\SinchCodec\obj\Debug\net6.0\SinchCodec.csproj.AssemblyReference.cache
+D:\dev\SinchCodec\SinchCodec\obj\Debug\net6.0\SinchCodec.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\SinchCodec\SinchCodec\obj\Debug\net6.0\SinchCodec.AssemblyInfoInputs.cache
+D:\dev\SinchCodec\SinchCodec\obj\Debug\net6.0\SinchCodec.AssemblyInfo.cs
+D:\dev\SinchCodec\SinchCodec\obj\Debug\net6.0\SinchCodec.csproj.CoreCompileInputs.cache
+D:\dev\SinchCodec\SinchCodec\obj\Debug\net6.0\SinchCodec.dll
+D:\dev\SinchCodec\SinchCodec\obj\Debug\net6.0\refint\SinchCodec.dll
+D:\dev\SinchCodec\SinchCodec\obj\Debug\net6.0\SinchCodec.pdb
+D:\dev\SinchCodec\SinchCodec\obj\Debug\net6.0\ref\SinchCodec.dll
